@@ -1,1 +1,28 @@
-
+{
+    "user": {
+        "username": "PuffingIn2D",
+        "email": "hacker@exploits.com",
+        "roles": {
+            "Tap": {
+                "valid": true,
+                "expires": "Never"
+            },
+            "Support": {
+                "valid": true,
+                "expires": "Never"
+            },
+            "Administrator": {
+                "valid": true,
+                "expires": "Never"
+            }
+        },
+        "discord": {
+            "linked": false,
+            "id": null,
+            "linkedAt": 0
+        }
+    },
+    "response": "HWID",
+    "timestamp": 1531536139,
+    "origin": "127.0.0.1"
+}
